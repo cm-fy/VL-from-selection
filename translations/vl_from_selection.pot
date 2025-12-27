@@ -1,0 +1,113 @@
+# VL from selection
+# Copyright (C) YEAR PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: vl_from_selection\n"
+"POT-Creation-Date: 2025-12-21 00:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: vl_from_selection/__init__.py:16
+msgid "Create a persistent Virtual Library from selected book IDs."
+msgstr ""
+
+#: vl_from_selection/action.py:17
+msgid "VL from selection"
+msgstr ""
+
+#: vl_from_selection/action.py:19
+msgid "Create a persistent Virtual Library from selected book IDs"
+msgstr ""
+
+#: vl_from_selection/action.py:58
+msgid "No books selected."
+msgstr ""
+
+#: vl_from_selection/action.py:66
+msgid "Could not access the current database."
+msgstr ""
+
+#: vl_from_selection/action.py:71
+msgid "Create Virtual Library"
+msgstr ""
+
+#: vl_from_selection/action.py:72
+msgid "Virtual Library name:"
+msgstr ""
+
+#: vl_from_selection/action.py:86
+msgid "Optional tags"
+msgstr ""
+
+#: vl_from_selection/action.py:87
+msgid "Apply tag(s) to selected books? (comma-separated, blank for none):"
+msgstr ""
+
+#: vl_from_selection/action.py:113
+msgid "Failed to save Virtual Library: {}"
+msgstr ""
+
+#: vl_from_selection/action.py:128
+msgid "Created Virtual Library \"{name}\" with {n} book(s)."
+msgstr ""
+
+#: vl_from_selection/action.py:147
+msgid "Selection {ts}"
+msgstr ""
+
+#: vl_from_selection/action.py:149
+msgid "Selection"
+msgstr ""
+
+#: vl_from_selection/action.py:220
+msgid "Don't show this again"
+msgstr ""
+
+# Config dialog strings for VL_from_selection
+#. Text shown in the plugin customization dialog above the options
+#: vl_from_selection/config.py:29
+msgid "Options:"
+msgstr ""
+
+#: vl_from_selection/config.py:30
+#. Checkbox: show a brief info message after a VL is created
+msgid "Show creation notification after creating a Virtual Library"
+msgstr ""
+
+#: vl_from_selection/config.py:34
+#. Checkbox: whether to switch view to the newly created Virtual Library
+msgid "Switch to the new Virtual Library after creation"
+msgstr ""
+
+# Toggle actions and feedback
+#: vl_from_selection/action.py:50
+msgid "Toggle: Show creation notification after creating a Virtual Library"
+msgstr ""
+
+#: vl_from_selection/action.py:52
+msgid "Toggle: Switch to the new Virtual Library after creation"
+msgstr ""
+
+#: vl_from_selection/action.py:154
+msgid "Show creation notification: {}"
+msgstr ""
+
+#: vl_from_selection/action.py:160
+msgid "Switch to new Virtual Library after creation: {}"
+msgstr ""
+
+# Generic state strings
+#: vl_from_selection/action.py:156
+msgid "ON"
+msgstr ""
+
+#: vl_from_selection/action.py:161
+msgid "OFF"
+msgstr ""
