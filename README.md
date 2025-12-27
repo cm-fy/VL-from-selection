@@ -1,4 +1,4 @@
-VL from selection
+**VL from selection**
 
 Create a Virtual Library from the currently selected books in Calibre.
 
